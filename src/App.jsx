@@ -6,7 +6,6 @@ function App() {
         i'm currently building an awesome company with awesome people.
       </p>
       <p className="pt-1">
-        /{" "}
         <a
           href="https://github.com/matthewp2718"
           className="text-blue-700 underline"
