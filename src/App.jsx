@@ -89,7 +89,11 @@ function App() {
             live project
           </a>{" "}
           /{" "}
-          <a href="#" className="underline text-blue-700" target="_blank">
+          <a
+            href="https://github.com/davidwrossiter/orin"
+            className="underline text-blue-700"
+            target="_blank"
+          >
             github for client
           </a>{" "}
         </p>
